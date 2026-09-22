@@ -33,9 +33,10 @@ This repository contains the curriculum, practical lab instructions, and session
 
 ## 📹 Session Recordings
 *Links to the recorded sessions.*
-* **Day 1 Recording:** [Insert YouTube/Drive Link Here]
+* **Day 1 Recording:** [https://drive.google.com/file/d/1JQL0J55-lvj0EDUbQrAEytq8s78wJslQ/view?usp=sharing]
   * *15:00 - CIA Triad & Hacker Types*
   * *45:30 - Networking Fundamentals*
-* **Day 2 Recording:** [Insert YouTube/Drive Link Here]
+* **Day 2 Recording:** - [https://drive.google.com/file/d/11NGfMa4UhJVrYiddI8xyJcukPwa64G-z/view?usp=sharing]
+* - [https://drive.google.com/file/d/11NGfMa4UhJVrYiddI8xyJcukPwa64G-z/view?usp=sharing]
   * *10:00 - VirtualBox & Kali Linux Installation*
   * *55:00 - OSINT and Nmap Scanning Practical*
